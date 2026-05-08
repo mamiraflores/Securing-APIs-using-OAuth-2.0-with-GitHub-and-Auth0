@@ -1,0 +1,13 @@
+  Critical Thinking (Answer Sheet)
+
+a. Result Analysis
+i. What happens when a user accesses /profile without logging in? 
+- It will show a unauthorized access
+ii. What data is returned after successful login?
+- The profile 
+iii. Why is OAuth considered more secure than traditional login?
+- OAuth is more secure because it replaces your password with a temporary access token, ensuring the application never sees or stores your private login credentials. 
+iv. What challenges did you encounter?
+- The logout since it when im logging out, it will automatically go to profile 
+v. What did you learn from this activity?
+- How to make OAuth login
